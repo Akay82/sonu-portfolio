@@ -38,7 +38,7 @@ Run `npm run build`, then drop the `dist` folder into Netlify’s manual deploym
 
 ## Editing the portfolio
 
-- `src/data.js`: LinkedIn URL, career timeline, work highlights, and skill groups.
+- `src/data.js`: contact information, résumé URL, career timeline, projects, achievement metrics, and skill groups.
 - `src/main.jsx`: page sections, biography, education, certifications, and interactive components.
 - `src/styles.css`: colors, typography, animation, and responsive layouts.
 - `index.html`: title, description, and social metadata.
@@ -46,11 +46,11 @@ Run `npm run build`, then drop the `dist` folder into Netlify’s manual deploym
 
 ## Content notes
 
-Content is based on the supplied LinkedIn screenshots. Duplicate and overlapping entries have been consolidated around named employers. RebusCode is shown as the overall May 2019–March 2021 tenure; the senior frontend role began September 2019. Edynamic and Altudo are grouped for the earlier UI role; some dates overlap with RebusCode in the supplied profile.
+Content combines the supplied LinkedIn screenshots with the October 2026 résumé. Employment dates and titles follow the résumé where the sources differ: Annalect ends in June 2026, the later Altudo role begins in March 2021, and Edynamic ends in April 2019. The current location is Ludhiana. Education dates and certifications remain based on the LinkedIn screenshots.
 
-The three work highlights summarize documented professional contributions. Their small interface illustrations are original visual concepts, labeled as illustrative; they are not original product screenshots or public project demos. There are no invented project URLs, testimonials, business metrics, or contact details.
+The six project highlights and four achievement metrics come from the résumé. Their small interface illustrations are original visual concepts, labeled as illustrative; they are not original product screenshots or public project demos. There are no invented project URLs, testimonials, business metrics, or contact details.
 
-LinkedIn is the contact destination. The supplied portrait is included at `public/sonu-maurya.jpg`. An email address, résumé file, actual project images, and project URLs can be added when available. Earlier school entries and general office software skills have been omitted to keep the portfolio focused on frontend engineering.
+The Contact section provides email, telephone, and LinkedIn links. The supplied portrait is included at `public/sonu-maurya.jpg`. The original résumé is served unchanged from `public/Sonu-Maurya-Resume.pdf`, with download buttons in the hero, About, and Contact sections. Replace that file to update future downloads. Actual project images and project URLs can be added when available. Earlier school entries and general office software skills have been omitted to keep the portfolio focused on frontend engineering.
 
 ## Interaction and accessibility
 
