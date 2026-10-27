@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.netlify/
+*.local
+netlify-deploy.zip
+*-preview.png
