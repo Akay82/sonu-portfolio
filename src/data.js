@@ -7,7 +7,7 @@ export const contact = {
   resume: '/Sonu-Maurya-Resume.pdf',
 };
 
-// Employment dates and titles follow the supplied October 2026 résumé.
+// Employment dates and titles follow the supplied October 2026 resume.
 export const experience = [
   { company: 'Omnicom Media Group · Annalect', initials: 'a.', role: 'Senior Software Engineer', date: 'Apr 2023 — Jun 2026', location: 'Bengaluru, India', description: 'Led and coordinated three senior frontend developers, overseeing code quality, development, and delivery. Partnered daily with UI/UX designers to improve usability and technical feasibility. Used AI-assisted design workflows to turn concepts into implementation-ready application structures, while reviewing and testing code for reusable architecture and fewer defects.', tags: ['React', 'TypeScript', 'Micro frontends', 'Team leadership'] },
   { company: 'Altudo Consultancy Services', initials: 'al', role: 'Associate Software Engineer', date: 'Mar 2021 — Apr 2023', location: 'Gurgaon, India', description: 'Built reusable, high-performance Angular components aligned with client coding standards, improving maintainability and page load times. Delivered a multi-module employee-management platform with Angular 12, including tree- and table-based views for employee records and workflows.', tags: ['Angular 12', 'TypeScript', 'Reusable components'] },
@@ -35,5 +35,5 @@ export const work = [
 export const skillGroups = {
   'Frontend': ['React', 'Angular', 'Next.js', 'TypeScript', 'JavaScript', 'HTML5', 'CSS3', 'Angular Material', 'Responsive design', 'Bootstrap', 'jQuery'],
   'Tools & workflow': ['Git', 'GitHub', 'GitLab', 'Bitbucket', 'Azure DevOps', 'Jira', 'Redmine', 'SVN', 'Postman', 'Figma', 'GitHub Copilot'],
-  'Beyond the UI': ['Python', 'Flask', 'Node.js', 'Micro frontends', 'Data visualization', 'Code review', 'Team leadership', 'Ember.js', 'AngularJS'],
+  'Beyond the UI': ['Java', 'Python', 'Flask', 'Node.js', 'Micro frontends', 'Data visualization', 'Code review', 'Team leadership', 'Ember.js', 'AngularJS'],
 };
