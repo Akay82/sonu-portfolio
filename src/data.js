@@ -33,7 +33,7 @@ export const work = [
 ];
 
 export const skillGroups = {
-  'Frontend': ['React', 'Angular', 'Next.js', 'TypeScript', 'JavaScript', 'HTML5', 'CSS3', 'Angular Material', 'Responsive design', 'Bootstrap', 'jQuery'],
-  'Tools & workflow': ['Git', 'GitHub', 'GitLab', 'Bitbucket', 'Azure DevOps', 'Jira', 'Redmine', 'SVN', 'Postman', 'Figma', 'GitHub Copilot'],
+  'Frontend': ['React', 'Redux', 'Angular', 'Next.js', 'Vite', 'TypeScript', 'JavaScript', 'HTML5', 'CSS3', 'Angular Material', 'Responsive design', 'Bootstrap', 'jQuery'],
+  'Tools & workflow': ['Agile', 'CI/CD pipelines', 'Unit testing', 'Selenium', 'Git', 'GitHub', 'GitLab', 'Bitbucket', 'Azure DevOps', 'Jira', 'Redmine', 'SVN', 'Postman', 'Figma', 'GitHub Copilot'],
   'Beyond the UI': ['Java', 'Python', 'Flask', 'Node.js', 'Micro frontends', 'Data visualization', 'Code review', 'Team leadership', 'Ember.js', 'AngularJS'],
 };
